@@ -1,10 +1,5 @@
 #!/usr/bin/python3
 
-#****** R O A D M A P ******
-#1. Function telnet_access_priv_mode should return result to see
-#	if enable password worked or not	
-
-
 import getpass
 import sys
 import time
